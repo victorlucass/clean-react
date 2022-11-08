@@ -19,6 +19,7 @@
     "ts-jest": "^29.0.3"
   },
   "devDependencies": {
+    "@types/faker": "^4.1.11",
     "@types/node": "^13.13.5",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
@@ -30,6 +31,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
+    "faker": "^4.1.0",
     "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.2",
